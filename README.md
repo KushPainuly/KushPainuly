@@ -1,4 +1,4 @@
-![logo](https://github.com/KushPainuly/KushPainuly/blob/main/kushpainulybanner.png)
+![Profile Banner](https://github.com/KushPainuly/KushPainuly/blob/main/kushpainulybanner.png)
 <div align="center">
     <img height="150" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"  />
   </div>
