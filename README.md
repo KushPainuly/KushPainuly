@@ -1,6 +1,6 @@
 ![logo](https://github.com/KushPainuly/KushPainuly/blob/main/kpbanner.png)
 <div align="center">
-    <img height="150" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif"  />
+    <img height="150" src="https://github.com/KushPainuly/KushPainuly/blob/main/kpbanner.png"  />
   </div>
   
   ###
